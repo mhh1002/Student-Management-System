@@ -1,5 +1,4 @@
 # Student-Management-System
-# Student Management System
 
 A simple Java-based command-line application for managing student records and user accounts. This project demonstrates basic CRUD (Create, Read, Update, Delete) operations and user authentication without persistent storage.
 
